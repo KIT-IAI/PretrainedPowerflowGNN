@@ -69,3 +69,16 @@ pip install pyg_lib torch_cluster torch_spline_conv -f https://data.pyg.org/whl/
 pip install matplotlib
 pip install scikit-learn plotly seaborn wandb
 ```
+
+
+## License
+
+This code is licensed under the [MIT License](LICENSE)
+
+Copyright 2025, Copyright Owner: Karlsruhe Institute of Technology (KIT)
+
+Author: Simon Grafenhorst
+
+Contact: simon.grafenhorst@kit.edu
+
+This project contains code from the [PowerFlowNet repository](https://github.com/StavrosOrf/PoweFlowNet), which is licensed under the [MIT License](LICENSE).
